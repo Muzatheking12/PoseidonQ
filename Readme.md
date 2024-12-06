@@ -27,3 +27,7 @@
 # Installation
 <h3>For Windows</h3>
 <p>You can install PoseidonQ in Windows OS by downloading installer from Sourceforge.</p><a href=https://sourceforge.net/projects/poseidonq/>Click Here to get Setup Installer</a>
+<h3>For Linux</h3>
+<p>The Software has been built for ubuntu 22.04 & more , packaged as .deb file. This can be downloaded from Sourceforge.</p><a href=https://sourceforge.net/projects/poseidonq/>Click Here to get Debian Package</a>
+<p>After downloading DEB file:</p>
+<p>`cd ./{your_location_of_deb}`</p>
