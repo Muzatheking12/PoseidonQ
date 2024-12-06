@@ -15,3 +15,9 @@
 <li>Convert QSAR model to WebApp </li>
 <li>Upload the App Folder Files in GitHub Repository , and link to Streamlit to launch your own QSAR app</li>
 
+<h4>GUI</h4>
+<p align="left" width="100%">
+    <img src="Img/icon.ico" width="100">
+    
+</p>
+
