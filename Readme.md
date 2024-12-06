@@ -18,5 +18,5 @@
 # GUI
 
 <p align="left" >
-    <img src="Img/damnson.png" >
+    <img src="Img/GUIposei.png" >
 </p>
