@@ -30,4 +30,4 @@
 <h3>For Linux</h3>
 <p>The Software has been built for ubuntu 22.04 & more , packaged as .deb file. This can be downloaded from Sourceforge.</p><a href=https://sourceforge.net/projects/poseidonq/>Click Here to get Debian Package</a>
 <p>After downloading DEB file:</p>
-<p>`cd ./{your_location_of_deb}`</p>
+<p><b>cd to location of your deb file</b><br><b>chmod +x PoseidonQ-app-0.0.1.deb</b><br><b>sudo apt install PoseidonQ-app-0.0.1</b></p>
