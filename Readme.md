@@ -30,7 +30,7 @@
 <h3>For Linux</h3>
 <p>The Software has been built for ubuntu 22.04 & more , packaged as .deb file. This can be downloaded from Sourceforge.</p><a href=https://sourceforge.net/projects/poseidonq/>Click Here to get Debian Package</a>
 
-<p>After downloading DEB file:</p>
+<p><br>After downloading DEB file:</p>
 
 ```sh
 #terminal
@@ -41,5 +41,17 @@ chmod +x PoseidonQ-app-0.0.1.deb
 ```
 ```sh
 sudo apt install PoseidonQ-app-0.0.1
+```
+<p>If to install in a DIR instead of bin, then</p>
+
+```sh
+#terminal
+cd to location of your deb file
+```
+```sh
+chmod +x PoseidonQ-app-0.0.1.deb
+```
+```sh
+dpkg --instdir {specify a dir} -i PoseidonQ-app-0.0.1.deb
 ```
 
