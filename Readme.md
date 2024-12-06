@@ -32,7 +32,13 @@
 
 <p>After downloading DEB file:</p>
 ```sh
+#terminal
     cd to location of your deb file
+```
+```sh
     chmod +x PoseidonQ-app-0.0.1.deb
+```
+```sh
     sudo apt install PoseidonQ-app-0.0.1
 ```
+
