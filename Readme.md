@@ -4,4 +4,4 @@
 </p>
 
 # PoseidonQ
-<h1>Personal Optimization Software for Efficient Implementation and Derivation of ONline QSAR</h1>
+<h3>Personal Optimization Software for Efficient Implementation and Derivation of ONline QSAR</h3>
