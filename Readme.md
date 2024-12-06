@@ -5,3 +5,4 @@
 
 # PoseidonQ
 <h3>Personal Optimization Software for Efficient Implementation and Derivation of ONline QSAR</h3>
+<p>This Software was made with an itention to make QSAR building more efficient and reproducible even for inexperienced users.</p>
