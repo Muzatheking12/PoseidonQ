@@ -15,9 +15,8 @@
 <li>Convert QSAR model to WebApp (Automatic External Validation) </li>
 <li>Upload the App Folder Files in GitHub Repository , and link to Streamlit to launch your own QSAR app</li>
 
-<h3>GUI</h3>
-<p align="left" width="100%">
-    <img src="Img/GUIposei.png" width="100">
-    
-</p>
+# GUI
 
+<p align="left" >
+    <img src="Img/damnson.png" >
+</p>
