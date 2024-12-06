@@ -42,7 +42,7 @@ chmod +x PoseidonQ-app-0.0.1.deb
 ```sh
 sudo apt install PoseidonQ-app-0.0.1
 ```
-<p><b>If to install in a DIR instead of bin, then:</b></p>
+<p><b>To install in a DIR instead of bin, then:</b></p>
 
 ```sh
 #terminal
