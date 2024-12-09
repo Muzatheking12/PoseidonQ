@@ -14,9 +14,9 @@
 <li>Automatic Processing of Y-Label Depending TASK(Regression\Classification) according to users preferences</li>
 <li>Defining Applicability Domain (FP - Tanimoto Similarity & Descriptors - Bounding Box)</li>
 <li>Comparing Data in different ML Models with Metrics (R2/RMSE) or MCC with setting K-Fold split and Low variance threshold</li>
+<li>Recursive Feature Elimination for Feature Selection</li> 
 <li>Contains 22 ML Models and 16 FP from PadelPy, RDkit and CSFP with RDkit Molecular Descriptors</li>
 <li>Choose ML model or Descriptor/FP of choice to build model (Automatic Internal Validation(R2/RMSE & Accuracy, Sensitivity, Specificity and MCC))</li>
-<li>Recursive Feature Elimination for Feature Selection</li> 
 <li>SHAP analysis</li>
 <li>Convert QSAR model to WebApp (Automatic External Validation) </li>
 <li>Upload the App Folder Files in GitHub Repository , and link to Streamlit to launch your own QSAR app</li>
