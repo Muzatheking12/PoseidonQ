@@ -56,12 +56,21 @@ chmod +x PoseidonQ-app-0.0.1.deb
 ```sh
 dpkg --instdir {specify a dir} -i PoseidonQ-app-0.0.1.deb
 ```
+# Instruction to Note
+<li>Input Value in nM only, incase utilizing in-house data, automatic conversion to pIC50(regression) or binarization(classification)</li>
+<li>Input Columns are SMILES and Value</li>
+<li>Java JRE setup is provided within software directory, install it to use PadelPy descriptors</li>
+<li>Choose same Fingerprint/Descriptors for AD Definition, Comparison and Building Model</li>
+<li>For External validation, Value column for Regression models and Bioactivity column for Classification models. Here Value must in pIC50 and Bioactivity in binarized format </li>
+
 # Authors
+
 <li>Muzammil Kabier</li>
 <li>Nicola Gambacorta</li>
 <li>Sunil Kumar</li>
 <li>Prof. Dr. Orazio Nicolotii</li>
 <li>Prof. Dr. Bijo Mathew</li>
+
 <p align="left" >
     <img src="Img/load.png" >
 </p>
