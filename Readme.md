@@ -69,9 +69,9 @@ dpkg --instdir {specify a dir} -i PoseidonQ-app-0.0.1.deb
 <li>Nicola Gambacorta</li>
 <li>Sunil Kumar</li>
 <li>Prof. Dr. Orazio Nicolotii</li>
-<li>Prof. Dr. Bijo Mathew<br></li>
+<li>Prof. Dr. Bijo Mathew</li>
 
-<p align="left" >
+<p <br> align="left" >
     <img src="Img/load.png" >
 </p>
 
