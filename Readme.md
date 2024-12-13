@@ -54,7 +54,7 @@ cd to location of your deb file
 chmod +x PoseidonQ-app-0.0.1.deb
 ```
 ```sh
-dpkg --instdir {specify a dir} -i PoseidonQ-app-0.0.1.deb
+sudo --instdir {specify a dir} -i PoseidonQ-app-0.0.1.deb
 ```
 # Instruction to Note
 <li>Input Value in nM only, incase utilizing in-house data, automatic conversion to pIC50(regression) or binarization(classification)</li>
