@@ -57,7 +57,9 @@ chmod +x PoseidonQ-app-0.0.1.deb
 sudo --instdir {specify a dir} -i PoseidonQ-app-0.0.1.deb
 ```
 <p><b>To extract files from deb into target directory </b></p>
+
 ```sh
+#terminal
 dpkg --extract {deb_file} {target_directory}
 ```
 
