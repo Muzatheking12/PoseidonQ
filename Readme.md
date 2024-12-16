@@ -20,7 +20,7 @@
 <li>Convert QSAR model to WebApp (Automatic External Validation(if Value/Bioactivity Column exists), Multiple SMILES Screening and Single SMILES input) </li>
 <li>Upload the App Folder Files in GitHub Repository , and link to Streamlit to launch your own QSAR app</li>
 
-# GUI
+# GUI Preview
 
 <p align="left" >
     <img src="Img/GUIposei.png" >
