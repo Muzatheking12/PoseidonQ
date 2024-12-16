@@ -56,6 +56,11 @@ chmod +x PoseidonQ-app-0.0.1.deb
 ```sh
 sudo --instdir {specify a dir} -i PoseidonQ-app-0.0.1.deb
 ```
+<p><b>To extract files from deb into target directory </b></p>
+```sh
+dpkg --extract {deb_file} {target_directory}
+```
+
 # Instruction to Note
 <li>Input Value in nM only, incase utilizing in-house data, automatic conversion to pIC50(regression) or binarization(classification)</li>
 <li>Input Columns are SMILES and Value</li>
