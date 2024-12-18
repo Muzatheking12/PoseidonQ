@@ -7,6 +7,7 @@
 <h3>Personal Optimization Software for Efficient Implementation and Derivation of ONline QSAR</h3>
 <p>Download By Clicking on the Green Button Below(Available For Windows OS & Linux ubuntu (22.04 and above):</p>
 <a href="https://sourceforge.net/projects/poseidonq/files/latest/download"><img alt="Download PoseidonQ" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
+<a href="https://sourceforge.net/projects/poseidonq/files/latest/download"><img alt="Download PoseidonQ  - AI/ML Based QSAR Modeling" src="https://img.shields.io/sourceforge/dt/poseidonq.svg" ></a>
 
 <p><br>This Software was made with an intention to make QSAR building more efficient and reproducible.<br>Simple to use and no compromise on essential features necessary to make reliable QSAR models</p>
 <h4>Step by Step - Process</h4>
