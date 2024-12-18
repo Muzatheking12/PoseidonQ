@@ -30,10 +30,10 @@
 # Installation
 <h3>For Windows</h3>
 <p>You can install PoseidonQ in Windows OS by downloading installer from Sourceforge.</p><a href=https://sourceforge.net/projects/poseidonq/>Click Here to get Setup Installer</a>
-<p>NOTE : Excel is required to mainpulate spreadsheets in xlsx, Java-JRE is required for PadelPy (provided setup within directory of software) FP</p>
+<p><br>NOTE : Excel is required to mainpulate spreadsheets in xlsx, Java-JRE is required for PadelPy (provided setup within directory of software) FP</p>
 <h3>For Linux</h3>
 <p>The Software has been built for ubuntu 22.04 & more , packaged as .deb file. This can be downloaded from Sourceforge.</p><a href=https://sourceforge.net/projects/poseidonq/>Click Here to get Debian Package</a>
-<p>NOTE: xdg-open required for opening spreadsheets, with app like libreoffice(must be installed) -> sudo apt install xdg-open, Java JRE for PadelPy FP should be installed by sudo apt install default-jre</p>
+<p><br>NOTE: xdg-open required for opening spreadsheets, with app like libreoffice(must be installed) -> sudo apt install xdg-open, Java JRE for PadelPy FP should be installed by sudo apt install default-jre</p>
 
 <p><br><b>After downloading DEB file:</b></p>
 
