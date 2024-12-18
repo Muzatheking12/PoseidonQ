@@ -77,6 +77,8 @@ dpkg --extract {deb_file} {target_directory}
 
 <li>Muzammil Kabier</li>
 <li>Nicola Gambacorta</li>
+<li>Fulvio Ciriaco</li>
+<li>Fabrizio Mastrolorito</li>
 <li>Sunil Kumar</li>
 <li>Prof. Dr. Orazio Nicolotii</li>
 <li>Prof. Dr. Bijo Mathew</li>
