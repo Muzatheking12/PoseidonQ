@@ -13,7 +13,7 @@
 <h4>Step by Step - Process</h4>
 <li>Extraction of Data From ChEMBL Database or Users In-House Data</li>
 <li>Automatic Processing of Y-Label Depending TASK(Regression\Classification) according to users preferences</li>
-<li>Defining Applicability Domain (FP - Tanimoto Similarity & Descriptors - Bounding Box)</li>
+<li>Defining Applicability Domain (FP - Tanimoto Similarity & Descriptors - Boundary Box)</li>
 <li>Comparing Data in different ML Models with Metrics (R2/RMSE) or MCC with setting K-Fold split and Low variance threshold</li>
 <li>Sequential Feature Selection (Forward Direction)</li> 
 <li>Contains 22 ML Models and 16 FP from PadelPy, RDkit and CSFP with RDkit Molecular Descriptors</li>
