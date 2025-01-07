@@ -35,19 +35,8 @@
 <p>The Software has been built for ubuntu 22.04 & more , packaged as .deb file. This can be downloaded from Sourceforge.</p><a href=https://sourceforge.net/projects/poseidonq/>Click Here to get Debian Package</a>
 <p><br>NOTE: xdg-open required for opening spreadsheets, with app like libreoffice(must be installed) -> sudo apt install xdg-open, Java JRE for PadelPy FP should be installed by sudo apt install default-jre</p>
 
-<p><br><b>After downloading DEB file:</b></p>
 
-```sh
-#terminal
-cd to location of your deb file
-```
-```sh
-chmod +x PoseidonQ-app-0.0.1.deb
-```
-```sh
-sudo apt install PoseidonQ-app-0.0.1
-```
-<p><b>To install in a DIR instead of bin, then:</b></p>
+<p><b>To install in a DIR:</b></p>
 
 ```sh
 #terminal
