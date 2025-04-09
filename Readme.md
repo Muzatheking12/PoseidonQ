@@ -63,6 +63,9 @@ dpkg --extract {deb_file} {target_directory}
 <li>For External validation, Value column for Regression models and Bioactivity column for Classification models. Here Value must in pIC50 and Bioactivity in binarized format </li>
 <li>If You are facing issues while Deployment regarding the Module, Please use the 'requirements.txt' provided in this Repo</li>
 
+# Cite Us
+<p>Published in Journal of Chemical Information and Modelling, ACS</p>
+<a href=https://pubs.acs.org/doi/10.1021/acs.jcim.4c02372>Article Link</a>
 # Authors
 
 <li>Muzammil Kabier</li>
