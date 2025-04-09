@@ -66,8 +66,8 @@ dpkg --extract {deb_file} {target_directory}
 # Cite Us
 <p>Published in Journal of Chemical Information and Modelling, ACS</p>
 <a href=https://pubs.acs.org/doi/10.1021/acs.jcim.4c02372>Article Link</a>
-# Authors
 
+# Authors
 <li>Muzammil Kabier</li>
 <li>Nicola Gambacorta</li>
 <li>Fulvio Ciriaco</li>
