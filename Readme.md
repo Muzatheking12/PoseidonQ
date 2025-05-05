@@ -20,7 +20,7 @@
 <li>Choose ML model or Descriptor/FP of choice to build model (Automatic Internal Validation(R2/RMSE & Accuracy, Sensitivity, Specificity and MCC))</li>
 <li>Convert QSAR model to WebApp (Automatic External Validation(if Value/Bioactivity Column exists), Multiple SMILES Screening and Single SMILES input) </li>
 <li>Upload the App Folder Files in GitHub Repository , and link to Streamlit to launch your own QSAR app</li>
-<li>CSV input requires header - Smiles and Standard Value. the delimiter must be changed to semicolon ';' it can be done in notepad Ctrl + H to replace all , to ; . and save by adding .csv and enclosing name with doble inverted comma eg. "newfile.csv"</li>
+
 
 # GUI Preview
 
@@ -63,6 +63,7 @@ dpkg --extract {deb_file} {target_directory}
 <li>Choose same Fingerprint/Descriptors for AD Definition, Comparison and Building Model</li>
 <li>For External validation, Value column for Regression models and Bioactivity column for Classification models. Here Value must in pIC50 and Bioactivity in binarized format and SMILES header for SMILES which will be first column </li>
 <li>If You are facing issues while Deployment regarding the Module, Please use the 'requirements.txt' provided in this Repo</li>
+<li>CSV input requires header - Smiles and Standard Value. the delimiter must be changed to semicolon ';' it can be done in notepad Ctrl + H to replace all , to ; . and save by adding .csv and enclosing name with doble inverted comma eg. "newfile.csv"</li>
 
 # Cite Us
 <p>Published in Journal of Chemical Information and Modelling, ACS</p>
