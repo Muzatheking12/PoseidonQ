@@ -20,6 +20,7 @@
 <li>Choose ML model or Descriptor/FP of choice to build model (Automatic Internal Validation(R2/RMSE & Accuracy, Sensitivity, Specificity and MCC))</li>
 <li>Convert QSAR model to WebApp (Automatic External Validation(if Value/Bioactivity Column exists), Multiple SMILES Screening and Single SMILES input) </li>
 <li>Upload the App Folder Files in GitHub Repository , and link to Streamlit to launch your own QSAR app</li>
+<li>CSV input requires header - Smiles and Standard Value. the delimiter must be changed to semicolon ';' it can be done in notepad Ctrl + H to replace all , to ; . and save by adding .csv and enclosing name with doble inverted comma eg. "newfile.csv"</li>
 
 # GUI Preview
 
