@@ -60,7 +60,7 @@ dpkg --extract {deb_file} {target_directory}
 <li>Input Columns are SMILES and Value</li>
 <li>Java JRE setup is provided within software directory, install it to use PadelPy descriptors</li>
 <li>Choose same Fingerprint/Descriptors for AD Definition, Comparison and Building Model</li>
-<li>For External validation, Value column for Regression models and Bioactivity column for Classification models. Here Value must in pIC50 and Bioactivity in binarized format </li>
+<li>For External validation, Value column for Regression models and Bioactivity column for Classification models. Here Value must in pIC50 and Bioactivity in binarized format and SMILES header for SMILES which will be first column </li>
 <li>If You are facing issues while Deployment regarding the Module, Please use the 'requirements.txt' provided in this Repo</li>
 
 # Cite Us
