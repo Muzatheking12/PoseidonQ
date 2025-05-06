@@ -68,7 +68,7 @@ dpkg --extract {deb_file} {target_directory}
 <li>For First Time Users, While Viewing the WebApp . In the Terminal , Streamlit asks for EMAIL, please provide it and Click on Local URL or wait till the webpage is automatically loaded</li>
 
 # Cite Us
-<p>Published in Journal of Chemical Information and Modelling, ACS<br>Kabier M, Gambacorta N, Ciriaco F, Mastrolorito F, Kumar S, Mathew B, Nicolotti O. PoseidonQ: A Free Machine Learning Platform for the Development, Analysis, and Validation of Efficient and Portable QSAR Models for Drug Discovery. J Chem Inf Model. 2025 Apr 28;65(8):3944-3954. doi: 10.1021/acs.jcim.4c02372.</p><br>
+<p><b>Published in Journal of Chemical Information and Modelling, ACS</b><br>Kabier M, Gambacorta N, Ciriaco F, Mastrolorito F, Kumar S, Mathew B, Nicolotti O. PoseidonQ: A Free Machine Learning Platform for the Development, Analysis, and Validation of Efficient and Portable QSAR Models for Drug Discovery. J Chem Inf Model. 2025 Apr 28;65(8):3944-3954. doi: 10.1021/acs.jcim.4c02372.</p><br>
 <a href=https://pubs.acs.org/doi/10.1021/acs.jcim.4c02372>Article Link</a>
 
 # Authors
