@@ -63,8 +63,9 @@ dpkg --extract {deb_file} {target_directory}
 <li>Choose same Fingerprint/Descriptors for AD Definition, Comparison and Building Model</li>
 <li>For External validation, Value column for Regression models and Bioactivity column for Classification models. Here Value must in pIC50 and Bioactivity in binarized format and SMILES header for SMILES which will be first column </li>
 <li>If You are facing issues while Deployment regarding the Module, Please use the 'requirements.txt' provided in this Repo</li>
-<li>CSV input requires header - Smiles and Standard Value. the delimiter must be changed to semicolon ';' it can be done in notepad Ctrl + H to replace all , to ; . and save by adding .csv and enclosing name with doble inverted comma eg. "newfile.csv"</li>
+<li>CSV input requires header - Smiles and Standard Value. the delimiter must be changed to semicolon ';' it can be done in notepad Ctrl + H to replace all , to ; . and save by adding .csv and enclosing name with double inverted comma eg. "newfile.csv"</li>
 <li>For Prediciton in Webapp, Just Input SMILES with Header as SMILES</li>
+<li>For First Time Users, While Viewing the WebApp . In the Terminal , Streamlit asks for EMAIL, please provide it and Click on Local URL or wait till the webpage is automatically loaded</li>
 
 # Cite Us
 <p>Published in Journal of Chemical Information and Modelling, ACS</p>
