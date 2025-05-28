@@ -62,7 +62,7 @@ dpkg --extract {deb_file} {target_directory}
 <li>Input Columns are SMILES and Value</li>
 <li>Java JRE setup is provided within software directory, install it to use PadelPy descriptors</li>
 <li>Choose same Fingerprint/Descriptors for AD Definition, Comparison and Building Model</li>
-<li>For External validation, Value column for Regression models and Bioactivity column for Classification models. Here Value must in pIC50 and Bioactivity in binarized format and SMILES header for SMILES which will be first column </li>
+<li>For External validation, Value column for Regression models and Bioactivity column for Classification models. Here Value must in pIC50 and Bioactivity in binarized format (actives/inactives or as specified in development stage) and SMILES header for SMILES which will be first column </li>
 <li>If You are facing issues while Deployment regarding the Module, Please use the 'requirements.txt' provided in this Repo</li>
 <li>CSV input requires header - Smiles and Standard Value. the delimiter must be changed to semicolon ';' it can be done in notepad Ctrl + H to replace all , to ; . and save by adding .csv and enclosing name with double inverted comma eg. "newfile.csv"</li>
 <li>For Prediciton in Webapp, Just Input SMILES with Header as SMILES</li>
