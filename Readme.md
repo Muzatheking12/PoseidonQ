@@ -21,7 +21,7 @@
 <li>Choose ML model or Descriptor/FP of choice to build model (Automatic Internal Validation(R2/RMSE & Accuracy, Sensitivity, Specificity and MCC))</li>
 <li>Convert QSAR model to WebApp (Automatic External Validation(if Value/Bioactivity Column exists), Multiple SMILES Screening and Single SMILES input) </li>
 <li>Upload the App Folder Files in GitHub Repository , and link to Streamlit to launch your own QSAR app</li>
-<li>The Streamlit Python Version Must Be Set To 3.11 in the Advanced Settings</li>
+
 
 
 # GUI Preview
@@ -68,6 +68,7 @@ dpkg --extract {deb_file} {target_directory}
 <li>CSV input requires header - Smiles and Standard Value. the delimiter must be changed to semicolon ';' it can be done in notepad Ctrl + H to replace all , to ; . and save by adding .csv and enclosing name with double inverted comma eg. "newfile.csv"</li>
 <li>For Prediciton in Webapp, Just Input SMILES with Header as SMILES</li>
 <li>For First Time Users, While Viewing the WebApp . In the Terminal , Streamlit asks for EMAIL, please provide it and Click on Local URL or wait till the webpage is automatically loaded</li>
+<li>The Streamlit Python Version Must Be Set To 3.11 in the Advanced Settings</li>
 
 # Cite Us
 <p><b>Published in Journal of Chemical Information and Modeling, ACS</b><br>Kabier M, Gambacorta N, Ciriaco F, Mastrolorito F, Kumar S, Mathew B, Nicolotti O. PoseidonQ: A Free Machine Learning Platform for the Development, Analysis, and Validation of Efficient and Portable QSAR Models for Drug Discovery. J Chem Inf Model. 2025 Apr 28;65(8):3944-3954. doi: 10.1021/acs.jcim.4c02372.</p><br>
