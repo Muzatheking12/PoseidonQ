@@ -83,7 +83,4 @@ dpkg --extract {deb_file} {target_directory}
 <li>Prof. Dr. Orazio Nicolotii</li>
 <li>Prof. Dr. Bijo Mathew</li>
 
-<p align="left" ><br>
-    <img src="Img/load.png" >
-</p>
 
