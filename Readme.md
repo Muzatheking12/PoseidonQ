@@ -27,7 +27,7 @@
 # GUI Preview
 
 <p align="left" >
-    <img src="Img/GUIposei.png" >
+    <img src="Img/FIGG.png" >
 </p>
 
 # Installation
