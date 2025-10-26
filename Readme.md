@@ -27,7 +27,7 @@
 # GUI Preview
 
 <p align="left" >
-    <img src="Img/FIGG.png" >
+    <img src="Img/FX.png" >
 </p>
 
 # Installation
